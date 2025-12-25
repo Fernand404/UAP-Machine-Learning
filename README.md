@@ -1,6 +1,6 @@
 # 🥔 AkuKentang: Sistem Klasifikasi Penyakit Kentang Berbasis AI
 
-AkuKentang adalah platform berbasis web yang dikembangkan untuk mendiagnosis berbagai penyakit pada tanaman kentang (daun dan umbi) menggunakan teknologi **Deep Learning**. Proyek ini membandingkan tiga arsitektur Convolutional Neural Network (CNN) yang berbeda untuk memberikan wawasan tentang model mana yang paling efektif dalam mendeteksi patogen tanaman.
+AkuKentang adalah platform berbasis web yang dikembangkan untuk melakukan klasifikasi penyakit pada kentang.
 
 ---
 
