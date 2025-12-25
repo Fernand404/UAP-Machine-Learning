@@ -36,7 +36,7 @@ Proyek ini menerapkan pendekatan **Transfer Learning** pada dua model pretrained
 
 Berdasarkan hasil pengujian pada data validasi, berikut adalah ringkasan perbandingannya:
 
-| Parameter             | CNN Custom    | MobileNetV2    | ResNet50                         |
+| Parameter             | CNN           | MobileNetV2    | ResNet50                         |
 | :---                  | :---          | :---           | :---                             |
 | **Akurasi Validasi**  | 78%           | 81%            | 98%                              |
 | **Waktu Training**    | Cepat         | Sangat Cepat   | Cepat                            |
