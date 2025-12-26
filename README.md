@@ -55,7 +55,7 @@ Resnet menjadi yang tercepat tapi meskipun memiliki akurasi tertinggi, ketika di
 
 ![alt text](screenshots/Akurasi%20MobilenetV2.png)
 
-![alt text](screenshots/confusion%20mobilenetv2.png)
+![alt text](screenshots/Confusion%20mobilenetv2.png)
 
 **ResNet50**
 
