@@ -46,6 +46,7 @@ Berdasarkan hasil pengujian pada data validasi, berikut adalah ringkasan perband
 Resnet menjadi yang tercepat tapi meskipun memiliki akurasi tertinggi, ketika di lakukan tes pada tiap model, yang bisa memprediksi kentang sesuai penyakitnya adalah CNN, meskipun begitu, model masih bisa memprediksi penyakit namun tidak selalu akurat saja.
 
 **CNN**
+
 ![alt text](screenshots/Akurasi%20CNN.png)
 
 ![alt text](screenshots/Grafik%20CNN.png)
